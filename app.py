@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1dWSPlFmB3CtO6vOohF8FCqQbDIKjHP6i
 """
 
-!pip install streamlit
-
 import streamlit as st
 from calculator import show_calculator
 from bmi_calculator import show_bmi
